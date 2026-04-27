@@ -56,4 +56,4 @@ Tamires Marinho
 
 ---
 
-💡 Projeto feito com o objetivo de evoluir como desenvolvedora front-end.
+💡 Projeto feito com o objetivo de evoluir como desenvolvedora front-end e em contrução!
