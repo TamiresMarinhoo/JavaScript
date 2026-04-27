@@ -23,13 +23,10 @@ Projeto desenvolvido com foco em prática de JavaScript, manipulação de DOM e 
 
 ## 📸 Preview do projeto
 
-<!-- Coloque aqui uma imagem do seu projeto -->
-
 ![preview](./assets/preview.png)
 
 ## 📂 Estrutura do projeto
 
-```id="8q3qke"
 📁 assets
 📁 css
 📁 js
